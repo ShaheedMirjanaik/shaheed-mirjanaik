@@ -3,7 +3,7 @@ export const portfolioData = {
   role: "Software Developer",
   email: "shaheedrmirjanaik@gmail.com",
   phone: "9731990902",
-  location: "Belagavi, Karnataka",
+  location: "Betageri, District: Belagavi, State: Karnataka",
   github: "https://github.com/ShaheedMirjanaik",
   linkedin: "https://www.linkedin.com/in/shaheed-mirjanaik",
   summary: "Software Developer with hands-on experience in Java, Spring Boot, REST APIs, MySQL, Python, Flask, and React.js, with a strong foundation in object-oriented programming, data structures, database management, and backend application development.",
